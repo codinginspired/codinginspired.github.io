@@ -1,0 +1,16 @@
+.ci-content-container {
+    margin-top: 4rem;
+}
+
+.ci-projectcard-col {
+    margin-bottom: 2rem;
+}
+
+.ci-projectdetails-label {
+    font-weight: 600;
+}
+
+.ci-profilepicture {
+    width: 200px;
+    height: 200px;
+}

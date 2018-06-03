@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "title": "Lexy",
+        "tags": [
+            ".NET SDK",
+            "Microsoft Bot Framework",
+            "LUIS AI",
+            "Microsoft Azure"
+        ],
+        "text": "A virtual assistant/chatbot to streamline HR and LMS processes by integrating multiple platforms in one place.",
+        "type": "Product Development"
+    },
+    {
+        "id": 2,
+        "title": "Chasma Editor &trade;",
+        "tags": [
+            "C#",
+            "ASP.NET MVC",
+            "jQuery",
+            "Bootstrap"
+        ],
+        "text": "A template editor where you can drag 'n' drop and customize widgets to create dashboards for your SumTotal LMS &reg;",
+        "type": "Product Development"
+    },
+    {
+        "id": 3,
+        "title": "Quoting Tool",
+        "tags": [
+            "ASP.NET MVC",
+            "SQL Server",
+            "jQuery",
+            "Bootstrap"
+        ],
+        "text": "An enterprise app that manages the life-cycle of quotations of Curvature &trade;",
+        "type": "Client Services"
+    },
+    {
+        "id": 4,
+        "title": "Togetherly",
+        "tags": [
+            "Apache Cordova",
+            "JavaScript",
+            "ASP.NET Web API",
+            "Entity Framework"
+        ],
+        "text": "A hybrid mobile app that helps couples to have a strong relationship with each other.",
+        "type": "Client Services"
+    },
+    {
+        "id": 5,
+        "title": "Rebinner",
+        "tags": [
+            "ASP.NET MVC",
+            "ASP.NET Web API",
+            "ADO.NET",
+            "AngularJS"
+        ],
+        "text": "A tool used to change the locator of a device.",
+        "type": "Client Services"
+    },
+    {
+        "id": 6,
+        "title": "TalentX",
+        "tags": [
+            "AngularJS",
+            "ASP.NET MVC",
+            "DevExpress Tools",
+            "Bootstrap"
+        ],
+        "text": "A HR solution designed to overcome the day to day challenges through SASS model.",
+        "type": "Product Development"
+    },
+    {
+        "id": 7,
+        "title": "ICampuslite",
+        "tags": [
+            "ASP.NET MVC",
+            "DevExpress Reporting",
+            "SQL Server",
+            "jQuery"
+        ],
+        "text": "A social collaboration platform for campuses with a complete suite of collection.",
+        "type": "Product Development"
+    },
+    {
+        "id": 8,
+        "title": "SharePoint Portal Customization",
+        "tags": [
+            "C#",
+            "SharePoint",
+            "SQL Server",
+            "SharePoint WebParts"
+        ],
+        "text": "Customizing and creating new WebParts for the intranet portal of Curvature &trade;",
+        "type": "Client Services"
+    },
+    {
+        "id": 9,
+        "title": "TWS2 Port Tester",
+        "tags": [
+            "C#",
+            "WPF",
+            "SQL Server",
+            "Oracle"
+        ],
+        "text": "A desktop app which is used to test parallely the ports of an electronic device.",
+        "type": "Client Services"
+    },
+    {
+        "id": 10,
+        "title": "TWS2 General Application",
+        "tags": [
+            "WPF",
+            "DevExpress Tools",
+            "WiX Toolset",
+            "SQL Server"
+        ],
+        "text": "An enterprise app which is used to test the hardware components in order to generate quotation for reselling them.",
+        "type": "Client Services"
+    },
+    {
+        "id": 11,
+        "title": "TWS2 Script Editor",
+        "tags": [
+            "WPF",
+            "DevExpress Tools",
+            "WiX Toolset",
+            "SQL Server"
+        ],
+        "text": "A Python script editor application which is used to test hardware devices.",
+        "type": "Client Services"
+    },
+    {
+        "id": 12,
+        "title": "Data Feed for Yamaha &reg;",
+        "tags": [
+            "C#",
+            "WinForms",
+            "SumTotal Web Services &reg;",
+            "SQL Server"
+        ],
+        "text": "A data feed app that processes input files and generates the required output to be processed by SumTotal &reg; DSU.",
+        "type": "Client Services"
+    },
+    {
+        "id": 13,
+        "title": "Pixentia &trade; website",
+        "tags": [
+            "C#",
+            "ASP.NET MVC",
+            "jQuery",
+            "Bootstrap"
+        ],
+        "text": "The company website which present information about its services, blogs, etc.",
+        "type": "In-house Project"
+    },
+    {
+        "id": 14,
+        "title": "Yamaha &reg; Web Services Upgrade",
+        "tags": [
+            "C#",
+            "ASP.NET Web Services",
+            "SumTotal &reg; Web Services",
+            "SQL Server"
+        ],
+        "text": "The upgrade of Yamaha's &reg; training portal based on SumTotal LMS &reg;.",
+        "type": "Client Services"
+    },
+    {
+        "id": 15,
+        "title": "ASI &reg; Job Feed",
+        "tags": [
+            "C#",
+            "Console Application",
+            "ASP.NET Web Services",
+            "SQL Server"
+        ],
+        "text": "A job feed to update employee's training data in Yamaha &reg; LMS portal.",
+        "type": "Client Services"
+    },
+    {
+        "id": 16,
+        "title": "CUNA &reg; Data Feed",
+        "tags": [
+            "C#",
+            "Console Application",
+            "SumTotal &reg; Web Services",
+            "SQL Server"
+        ],
+        "text": "A job feed to update employee's training data in CUNA &reg; LMS portal.",
+        "type": "Client Services"
+    }
+]

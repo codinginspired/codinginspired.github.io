@@ -1,0 +1,398 @@
+[
+    {
+        "id": 1,
+        "title": "Lexy",
+        "client": "",
+        "status": "Active, started in Nov 2017",
+        "tags": [
+            "C#",
+            "Microsoft.NET SDK",
+            "Microsoft Bot Framework",
+            "LUIS AI",
+            "Microsoft Azure Services",
+            "ASP.NET Web API",
+            "SQL Server",
+            "Entity Framework",
+            "SumTotal &reg; Web Services",
+            "Google Drive Integration"
+        ],
+        "text": "A virtual assistant/chatbot to streamline HR and LMS processes by integrating multiple platforms in one place.",
+        "type": "Product Development",
+        "responsibilities": [
+            "Designing the architecture of the system",
+            "Designing the authentication flow of the system",
+            "Integrating bot with Slack, MS Teams, Chrome Extension and Direct Line API",
+            "Implementing Dialogs for conversation flow",
+            "Implementing NLP using LUIS AI service",
+            "Integrating with SumTotal &reg; Web Services to stream line data into social collaboration platforms",
+            "Implementing FAQ's without LUIS AI but string matching algorithm"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Chasma Editor &trade;",
+        "client": "",
+        "status": "Active, started in Apr 2017",
+        "tags": [
+            "C#",
+            "Microsoft.NET",
+            "ASP.NET MVC",
+            "JavaScript",
+            "jQuery",
+            "Bootstrap",
+            "XML",
+            "JSON",
+            "SumTotal &reg; Web Services",
+            "GRIDSTACK.JS"
+        ],
+        "text": "A template editor where you can drag 'n' drop and customize widgets to create dashboards for your SumTotal LMS &reg;",
+        "type": "Product Development",
+        "responsibilities": [
+            "Designed the architecture of the system",
+            "Integrated with SumTotal &reg; Web Services to get data into dashboards",
+            "Implemented drag 'n' drop using gridstack.js",
+            "Developed static & dynamic widgets",
+            "Developed UI of widgets that bind to static or data from SumTotal LMS &reg;",
+            "Implemented backend code for manipulation of view, layout features and publishing templates"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Quoting Tool",
+        "client": "Curvature &trade;",
+        "status": "Jan 2015 - Apr 2017",
+        "tags": [
+            "C#",
+            "Microsoft.NET",
+            "ASP.NET MVC",
+            "JavaScript",
+            "jQuery",
+            "Bootstrap",
+            "SQL Server",
+            "Oracle database",
+            "Visual Studio"
+        ],
+        "text": "A web application that is used to create quotations for the products requested by a customer and to completely manage the workflow of the quotation from its initial stage to the final stage where it becomes a contract approved by the customer.",
+        "type": "Client Services",
+        "responsibilities": [
+            "Developed the enterprise web application that manages the life cycle of a quotation",
+            "Developed end-to-end modules covering the aspects of front-end, back-end and database development.",
+            "Analysing the change requests and their impact and providing suggestions",
+            "Implemented change requests in phase 2 of the application",
+            "Improved the performance of the application",
+            "Provided support for UAT and resolved bugs in the application"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Togetherly",
+        "client": "Richard and Evan",
+        "status": "Completed in 2015",
+        "tags": [
+            "Apache Cordova",
+            "C#",
+            "Microsoft.NET",
+            "ASP.NET Web API",
+            "Entity Framework",
+            "SQL Server",
+            "Visual Studio",
+            "Android Studio",
+            "XCode",
+            "JavaScript",
+            "jQuery",
+            "HTML",
+            "CSS"
+        ],
+        "text": "A hybrid mobile application that helps couples to have a strong relationship with each other by using love quests, love quotes, chatting, dinning and a dashboard showing their overall status and love percentage and much more.",
+        "type": "Client Services",
+        "responsibilities": [
+            "Developed the RESTful services for the hybrid mobile application using ASP.NET Web API 2",
+            "Worked on the change requests and bugs of the application"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Rebinner",
+        "client": "Curvature",
+        "status": "Completed in 2016",
+        "tags": [
+            "C#",
+            "Microsoft.NET",
+            "ASP.NET MVC",
+            "ASP.NET Web API",
+            "ADO.NET",
+            "AngularJS",
+            "Metro UI",
+            "SQL Server",
+            "Oracle database",
+            "Visual Studio"
+        ],
+        "text": "A tool used to change the locator of a device, by scanning a locator first and then scanning the serial number which performs the rebin for that device to that locator.",
+        "type": "Client Services",
+        "responsibilities": [
+            "Technical guide on Microsoft.NET, C#, ASP.NET MVC, ASP.NET Web API and AngularJS"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "TalentX",
+        "client": "N/A",
+        "status": "Jan 2015 to Jun 2016",
+        "tags": [
+            "C#",
+            "Microsoft.NET",
+            "ASP.NET MVC",
+            "Entity Framework",
+            "DevExpress ASP.NET MVC Tools",
+            "SQL Server",
+            "AngularJS",
+            "jQuery",
+            "Bootstrap",
+            "Visual Studio",
+            "Node.js",
+            "Python",
+            "NUnit"
+        ],
+        "text": "A HR solution designed to overcome the day to day challenges through SASS model it features automated resume parsing, on boarding, off boarding, leave and time management, finance, employee collaboration, community and administration.",
+        "type": "Product Development",
+        "responsibilities": [
+            "Learnt AngularJS",
+            "Learnt unit and integration testing",
+            "AngularJS developer",
+            "Code reviewer",
+            "Technical lead",
+            "Designing the project solution, different layers and architecting the interaction b/w the layers",
+            "Integrated DevExpress controls for Dashboards and Reporting",
+            "Developed different aspects of the application - client-side code, server-side code, EF database first approach and data modelling"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "ICampuslite",
+        "client": "N/A",
+        "status": "Completed in 2015",
+        "tags": [
+            "C#",
+            "Microsoft.NET",
+            "ASP.NET MVC",
+            "ADO.NET",
+            "DevExpress ASP.NET MVC Tools",
+            "SQL Server",
+            "jQuery",
+            "Bootstrap",
+            "Visual Studio"
+        ],
+        "text": "A social collaborative platform for campuses with a complete suite of collection, learning and workflow management tools",
+        "type": "Product Development",
+        "responsibilities": [
+            "Learnt the reporting toolset from DevExpress",
+            "Developed the Reporting module which includes the design and development of each report"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "SharePoint Portal Customization",
+        "client": "Curvature &trade;",
+        "status": "Completed in 2015",
+        "tags": [
+            "C#",
+            "Microsoft.NET",
+            "SharePoint",
+            "SQL Server",
+            "Windows Server",
+            "Visual Studio"
+        ],
+        "text": "The intranet portal of Curvature where they maintain their department information, documents, development tasks, team tasks, their products wiki library in the form of team, wiki and project sites.",
+        "type": "Client Services",
+        "responsibilities": [
+            "Underwent SharePoint training for a month to perform the customizations for the portal and to provide administration support",
+            "Implemented a few customizations through WebParts and SharePoint Solution"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "TWS2 Port Tester",
+        "client": "Curvature &trade;",
+        "status": "Completed in 2014",
+        "tags": [
+            "C#",
+            "Microsoft.NET",
+            "WPF",
+            "XAML",
+            "ADO.NET",
+            "SQL Server",
+            "Oracle database",
+            "WiX Toolset",
+            "Visual Studio"
+        ],
+        "text": "An application which is used to test the ports of an electronic device in parallel to verify which ports are not working in order to assess the quotation for the device while reselling it.",
+        "type": "Client Services",
+        "responsibilities": [
+            "Sole developer of the WPF application",
+            "Designing the GUI of the application",
+            "Writing XAML, C#, ADO.NET code following the MVVM pattern",
+            "Multi-threading using Task Parallel Library to test maximum of 192 ports in parallel",
+            "Dynamic layout changes based on port and plug count which represents the real device plugs and ports",
+            "Implemented stress test mode with good memory, CPU usage where the app pings the ports indefinitely until the user stops the execution",
+            "Talk to SQL Server and Oracle databases",
+            "Implementing responsive and rich GUI using Modern UI for WPF, fast and fluid performance using Task Parallel Library"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "TWS2 General Application",
+        "client": "Curvature &trade;",
+        "status": "2013 to 2014",
+        "tags": [
+            "C#",
+            "Microsoft.NET",
+            "WPF",
+            "XAML",
+            "ADO.NET",
+            "Python",
+            "SQL Server",
+            "Oracle database",
+            "WiX Toolset",
+            "Visual Studio"
+        ],
+        "text": "An enterprise version of the TWS2 Script Editor which is used to test the hardware components in order to generate quotation for reselling it",
+        "type": "Client Services",
+        "responsibilities": [
+            "Learnt WPF, TPL and using MVVM pattern",
+            "Designing the GUI of the application",
+            "Evaluated different 3rd party WPF controls and choose to integrate DevExpress WPF controls",
+            "Customizing DevExpress WPF control themes",
+            "Writing XAML, C#, ADO.NET code following the MVVM pattern",
+            "Improved the performance of the application using Task Parallel Library to a great extent to execute 1, 00, 000 lines of code coming from a python script generated by using a loop in less than 10 seconds and displaying the output in real time on a standard WPF TextBox control which took 460MB of RAM",
+            "Running tests in parallel and writing to the corresponding test station’s output panel and supporting up to 96 test stations",
+            "Fixed the challenge of mapping the output coming from the port to its corresponding test station in the application by working with a team mate which took about 5 days"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "TWS2 Script Editor",
+        "client": "Curvature &trade;",
+        "status": "2013 to 2014",
+        "tags": [
+            "C#",
+            "Microsoft.NET",
+            "WPF",
+            "XAML",
+            "ADO.NET",
+            "Python",
+            "SQL Server",
+            "Oracle database",
+            "WiX Toolset",
+            "Visual Studio"
+        ],
+        "text": "TWS2 Script Editor is a prototype application that executes python scripts that interact with the hardware in order to test their functioning which helps to generate quotation for the hardware to resell it",
+        "type": "Client Services",
+        "responsibilities": [
+            "Learnt WPF, TPL and MVVM pattern in less time",
+            "Desiged the GUI of the application using Modern UI",
+            "Developed the application by writing XAML and C# code",
+            "Wrote multi-threaded code using Task Parallel Library",
+            "Performed state management, data validation, database interactions with SQL Server and Oracle through ADO.NET"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Data Feed for Yamaha &reg;",
+        "client": "Yamaha Motor Company &reg;",
+        "status": "Jan 2014 to March 2014",
+        "tags": [
+            "C#",
+            "Microsoft.NET",
+            "WinForms",
+            "SumTotal &reg; Web Services",
+            "SQL Server",
+            "Visual Studio"
+        ],
+        "text": "Simple data feed applications that reads input and generates the output to be processed by a SumTotal LMS data synchronization tool by interacting with SumTotal Web Services and SumTotal database.",
+        "type": "Client Services",
+        "responsibilities": [
+            "Developed the WinForms application that processes an excel sheet and outputs a text file to be processed by SumTotal data sync tool by interacting with SQL Server 2008 R2 to update SumTotal LMS data"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Pixentia &trade; website",
+        "client": "N/A",
+        "status": "Completed in 2013",
+        "tags": [
+            "C#",
+            "Microsoft.NET",
+            "ASP.NET MVC",
+            "jQuery",
+            "Bootstrap",
+            "SQL Server",
+            "Visual Studio"
+        ],
+        "text": "The company website of Pixentia &trade; which presents information about its services, products, blogs, news and case studies.",
+        "type": "In-house Project",
+        "responsibilities": [
+            "Learn the building blocks of an ASP.NET MVC 4 application in a week from http://www.asp.net",
+            "Developing the client-side, server-side and database of the application"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Yamaha &reg; Web Services Upgrade",
+        "client": "Yamaha Motor Company &reg;",
+        "status": "Completed in 2013",
+        "tags": [
+            "C#",
+            "Microsoft.NET",
+            "ASP.NET Web Services",
+            "SumTotal &reg; Web Services",
+            "SQL Server",
+            "Visual Studio"
+        ],
+        "text": "The upgrade of Yamaha’s training portal based on SumTotal LMS.",
+        "type": "Client Services",
+        "responsibilities": [
+            "Lead the upgrade of ASP.NET Web Services from Microsoft.NET framework 2.0 to 3.5 and SQL Server from 2005 to 2008 R2 with a team mate who performed the SumTotal installations and configured setting of the LMS",
+            "Performed minor changes and add-ons and fixed the breaking changes by using fiddler",
+            "Used Telerik JustDecompile, JetBrains dotPeek to extract the project as we were only given the DLL’s"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "ASI &reg; Job Feed",
+        "client": "Yamaha Motor Company &reg;",
+        "status": "Completed in 2013",
+        "tags": [
+            "C#",
+            "Microsoft.NET",
+            "Console Application",
+            "ASP.NET Web Services",
+            "SQL Server",
+            "Visual Studio"
+        ],
+        "text": "A job feed to update employee’s training data in Yamaha LMS portal based on SumTotal LMS",
+        "type": "Client Services",
+        "responsibilities": [
+            "Using 3rd party ASP.NET Web Services to update employees data in the SumTotal LMS through a Console Application running in Task Scheduler"
+        ]
+    },
+    {
+        "id": 16,
+        "title": "CUNA &reg; Data Feed",
+        "client": "Credit Union National Association &reg;",
+        "status": "Completed in 2013",
+        "tags": [
+            "C#",
+            "Microsoft.NET",
+            "Console Application",
+            "SumTotal &reg; Web Services",
+            "SQL Server",
+            "Visual Studio"
+        ],
+        "text": "A job feed to update employee’s training data in CUNA &reg; LMS portal based on SumTotal &reg; LMS",
+        "type": "Client Services",
+        "responsibilities": [
+            "Understanding SumTotal Web Services SDK and SumTotal Data Dictionary in less time",
+            "Lead the development of the Console Application which involved using SumTotal Web Services"
+        ]
+    }
+]

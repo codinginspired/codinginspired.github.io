@@ -1,9 +1,173 @@
 <!doctype html>
-<html>
-<head>
-	<title>Coding Inspired</title>
-</head>
-<body>
-	<h1>Hello, World!</h1>
-</body>
+<html lang="en">
+    
+    <head>
+
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+        <title>Coding Inspired</title>
+
+        <link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap.min.css" />
+        <link rel="stylesheet" type="text/css" href="css/site.min.css" />
+
+    </head>
+
+    <body data-spy="scroll" data-target="#ciNavbar" data-offset="0">
+        
+        <nav id="ciNavbar" class="navbar fixed-top navbar-expand-md navbar-light bg-light">
+            <div class="container">
+                <a class="navbar-brand mb-0 h1" href="#">Coding Inspired</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ciNavbarSupportedContent" aria-controls="ciNavbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="ciNavbarSupportedContent">
+                    <div class="navbar-nav">
+                        <a class="nav-item nav-link" href="#profilesummary">Profile Summary <span class="sr-only">(current)</span></a>
+                        <a class="nav-item nav-link" href="#projects">Projects</a>
+                        <a class="nav-item nav-link" href="#education">Education</a>
+                        <a class="nav-item nav-link" href="#miscellaneous">Miscellaneous</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        
+        <div class="container ci-content-container">
+
+            <div class="jumbotron">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <img class="img-thumbnail mx-auto d-block ci-profilepicture" src="images/me.jpg" alt="Abdul Mateen Mohammed Picture" />
+                    </div>
+                    <div class="col-sm-8">
+                        <h1 class="display-4">Abdul Mateen Mohammed</h1>
+                        <p class="lead">Senior Software Design Engineer - 4.10 years experience</p>
+                        <hr class="my-4" />
+                        <p>Experienced in web and desktop app development using Microsoft.NET technologies</p>
+                        <p class="lead">
+                            <a class="btn btn-primary btn-lg" href="data/Abdul Mateen Senior SDE.pdf" role="button" target="_blank">Download Resumé</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-12">
+                    <h5 id="profilesummary">Profile Summary</h5>
+                    <p class="lead">A quality-oriented professional with 4.10 years experience in application development &amp; enhancement, service delivery and client relationship management in Hardware Resale domain.</p>
+                    <p class="lead">Insightful knowledge of Microsoft Technologies, .NET Framework, C#, ASP.NET MVC, WPF, LINQ, ADO.NET &amp; EF, AngularJS 1.x, JavaScript, jQuery, AJAX and SQL Server.</p>
+                    <p class="lead">Also experienced in ASP.NET Web API, ASP.NET Web Services, NUnit, HTML, CSS, Bootstrap 3, Angular 5, Universal Windows Apps, Microsoft Bot Framework, LUIS AI and Microsoft Azure.</p>
+                    <p class="lead">Implementing MVC &amp; N-Tier architecture, SOLID principles &amp; design patterns (factory, singleton, dependency injection, IoC, loosely coupled design), Data Structures &amp; Algorithms and OOP concepts.</p>
+                    <p class="lead">Following Process Models (Iterative/Incremental &amp; Agile Methods (Scrum)) and SDLC.</p>
+                    <p class="lead">Working for Pixentia &trade; since August 2013</p>
+                </div>
+            </div>
+
+            <h5 id="projects">Projects</h5>
+
+            <div id="ci-projects" class="row">
+            </div>
+
+            <div class="row">
+                <div class="col-sm-12">
+                    <h5 id="education">Education</h5>
+                    <p class="lead">B.Tech (CSE) from Dhanekula Institute of Engineering and Technology, Vijayawada, in 2013 with percentage of 75</p>
+                    <p class="lead">Intermediate from Narayana Junior College, Vijayawada, in 2009 with percentage of 79</p>
+                    <p class="lead">Schooling from St.John's Public School, Vijayawada, in 2007 with percentage of 75</p>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-12">
+                    <h5 id="miscellaneous">Miscellaneous</h5>
+                    <p class="lead">Current Location: Vijayawada, Andhra Pradesh, India</p>
+                    <p class="lead">Hobbies: Video gaming, Signing, Exploring new things</p>
+                    <ul>
+                        <li>
+                            <a href="https://stackoverflow.com/users/4808901/abdul-mateen-mohammed" target="_blank">Stack Overflow Profile</a>
+                        </li>
+                        <li>
+                            <a href="https://www.linkedin.com/in/abdul-mateen-mohammed-51368763/" target="_blank">LinkedIn Profile</a>
+                        </li>
+                        <li>
+                            <a href="https://app.pluralsight.com/profile/abdulmateenmohammed" target="_blank">Pluralsight Profile</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/MohammedAbdulMateen" target="_blank">GitHub Profile</a>
+                        </li>
+                        <li>
+                            <a href="https://www.youtube.com/channel/UCnoYNk6lhjs_VW2eOHRWtqA" target="_blank">Coding Inspired YouTube Channel</a>
+                        </li>
+                        <li>
+                            <a href="https://www.youtube.com/channel/UCi5zqlJZxBhemUou9_eGAdQ" target="_blank">Gaming Inspired YouTube Channel</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+
+        <nav class="navbar navbar-light bg-light">
+            <div class="container">
+                <span class="navbar-text col-sm-12 text-center">coding inspired &copy; all rights reserved</span>
+            </div>
+        </nav>
+
+        <div class="modal fade" id="ci-projectdetailsmodal" tabindex="-1" role="dialog" aria-labelledby="ci-projectdetailslabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="ci-projectdetailslabel"></h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div id="ci-projectdetails" class="modal-body"></div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script type="text/javascript" src="js/jquery/jquery-3.3.1.min.js"></script>
+        <script type="text/javascript" src="js/popper/popper.min.js"></script>
+        <script type="text/javascript" src="js/bootstrap/bootstrap.min.js"></script>
+
+        <script type="text/javascript" src="js/site.min.js"></script>
+        <script type="text/template" id="ci-projectcolumn-template">
+            <div class="col-lg-4 col-md-6 col-sm-12 ci-projectcard-col">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">{{title}}</h5>
+                        <h6 class="card-text">
+                            {{tags}}
+                        </h6>
+                        <p class="card-text">{{text}}</p>
+                        <button type="button" class="btn btn-primary ci-readmore" data-ciprojectid="{{id}}">Read more</button>
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted">{{type}}</small>
+                    </div>
+                </div>
+            </div>
+        </script>
+        <script type="text/template" id="ci-projecttag-template">
+            <span class="badge badge-pill badge-secondary">{{tag}}</span>
+        </script>
+        <script type="text/template" id="ci-projectdetails-template">
+            <p><span class="ci-projectdetails-label">Type:</span> {{type}}</p>
+            <p><span class="ci-projectdetails-label">Client:</span> {{client}}</p>
+            <p><span class="ci-projectdetails-label">Status:</span> {{status}}</p>
+            <p><span class="ci-projectdetails-label">Platform:</span> {{tags}}</p>
+            <p><span class="ci-projectdetails-label">Description:</span> {{text}}</p>
+            <p class="ci-projectdetails-label">Responsibilities:</p>
+            <ul>{{responsibilities}}</ul>
+        </script>
+        <script type="text/template" id="ci-listitem-template">
+            <li>{{listitem}}</li>
+        </script>
+
+    </body>
+
 </html>
